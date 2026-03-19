@@ -33,6 +33,8 @@ jobs:
       
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GH_README_PAT }}
         with:
           username: ${{ github.repository_owner }}
           file: profile/trophy.svg
