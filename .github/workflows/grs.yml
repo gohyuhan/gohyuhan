@@ -38,7 +38,7 @@ jobs:
           output_path: profile/trophy.svg
           token: ${{ secrets.GH_README_PAT }}
           theme: darkhub
-          no-frane: true
+          no-frame: true
           column: 10
 
       - name: Commit cards
