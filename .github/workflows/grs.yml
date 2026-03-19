@@ -32,16 +32,12 @@ jobs:
           token: ${{ secrets.GH_README_PAT }}
       
       - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        env:
-          GITHUB_TOKEN1: ${{ secrets.GH_README_PAT }}
+        uses: ryo-ma/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          file: profile/trophy.svg
+          output-path: profile/trophy.svg
           token: ${{ secrets.GH_README_PAT }}
           theme: darkhub
-          no-frame: true
-          max-cols: 10
 
       - name: Commit cards
         run: |
