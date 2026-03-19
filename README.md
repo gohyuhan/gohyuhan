@@ -8,9 +8,9 @@ A software engineer who likes to build things — sometimes useful, sometimes ju
 <p align="left">
   🔭 &nbsp;Currently crafting <a href="https://github.com/gohyuhan/gitti"><strong>gitti</strong></a> — a terminal UI for Git
 </p>
-<!-- <p align="left">
-  👨‍💻 &nbsp;A full time full stack software engineer @ <a href="https://swipey.co">swipey</a>
-</p> -->
+<p align="left">
+  💻 &nbsp; Full stack software engineer @ <a href="https://swipey.co">swipey</a>
+</p>
 <p align="left">
   🌱 &nbsp;Always learning something new &nbsp;·&nbsp; ☕ &nbsp;Powered by caffeine
 </p>
