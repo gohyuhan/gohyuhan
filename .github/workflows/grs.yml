@@ -30,6 +30,13 @@ jobs:
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=10&theme=onedark
           path: profile/top-langs.svg
           token: ${{ secrets.GH_README_PAT }}
+      
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          output_path: profile/trophy.svg
+          token: ${{ secrets.GH_README_PAT }}
 
       - name: Commit cards
         run: |
