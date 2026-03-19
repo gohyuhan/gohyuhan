@@ -37,6 +37,9 @@ jobs:
           username: ${{ github.repository_owner }}
           output_path: profile/trophy.svg
           token: ${{ secrets.GH_README_PAT }}
+          theme: darkhub
+          no-frane: true
+          column: 10
 
       - name: Commit cards
         run: |
