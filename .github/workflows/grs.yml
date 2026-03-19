@@ -35,7 +35,7 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
-          output-path: profile/trophy.svg
+          output_path: profile/trophy.svg
           token: ${{ secrets.GH_README_PAT }}
           theme: darkhub
 
