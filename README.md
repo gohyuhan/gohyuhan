@@ -52,7 +52,7 @@ A software engineer who likes to build things — sometimes useful, sometimes ju
 
 <h3 align="left">📊 Stats</h3>
 
-<p align="left"><img src="https://github-profile-trophy-tawny.vercel.app/?username=gohyuhan&theme=darkhub&no-frame=true&column=10" alt="gohyuhan trophies" /></p>
+<p align="left"><img src="./profile/trophy.svg" alt="gohyuhan trophies" /></p>
 
 <p align="left">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
