@@ -32,7 +32,7 @@ jobs:
           token: ${{ secrets.GH_README_PAT }}
       
       - name: Generate trophy
-        uses: ryo-ma/github-profile-trophy@v1
+        uses: ryo-ma/github-profile-trophy@master
         with:
           username: ${{ github.repository_owner }}
           output-path: profile/trophy.svg
