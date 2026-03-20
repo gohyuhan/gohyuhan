@@ -6,7 +6,11 @@
 A software engineer who likes to build things — sometimes useful, sometimes just for fun, always with a little too much attention to detail. I write clean code, break things occasionally, and pretend it was intentional. 🤙
 
 <p align="left">
-  🔭 &nbsp;Currently crafting <a href="https://github.com/gohyuhan/gitti"><strong>gitti</strong></a> — a terminal UI for Git
+  🔭 &nbsp;Currently crafting:
+  <ul>
+    <li><a href="https://github.com/gohyuhan/gitti"><strong>gitti</strong></a> — a terminal UI for Git</li>
+    <li><a href="https://github.com/gohyuhan/rift"><strong>rift</strong></a> — tear thru your filesystem</li>
+  </ul>
 </p>
 <p align="left">
   💻 &nbsp; Full stack software engineer @ <a href="https://swipey.co">swipey</a>
