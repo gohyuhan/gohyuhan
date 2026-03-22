@@ -8,8 +8,20 @@ A software engineer who likes to build things — sometimes useful, sometimes ju
 <p align="left">
   🔭 &nbsp;Currently crafting:
   <ul>
-    <li><a href="https://github.com/gohyuhan/gitti"><strong>gitti</strong></a> — a terminal UI for Git</li>
-    <li><a href="https://github.com/gohyuhan/rift"><strong>rift</strong></a> — tear thru your filesystem</li>
+    <li>
+      <a href="https://github.com/gohyuhan/gitti"><strong>gitti</strong></a>
+      <a href="https://github.com/gohyuhan/gitti/releases/latest">
+        <img src="https://img.shields.io/github/v/release/gohyuhan/gitti?style=flat-square&label=&color=blue" alt="gitti version" />
+      </a>
+      — a terminal UI for Git
+    </li>
+    <li>
+      <a href="https://github.com/gohyuhan/rift"><strong>rift</strong></a>
+      <a href="https://github.com/gohyuhan/rift/releases/latest">
+        <img src="https://img.shields.io/github/v/release/gohyuhan/rift?style=flat-square&label=&color=blue" alt="rift version" />
+      </a>
+      — tear thru your filesystem
+    </li>
   </ul>
 </p>
 <p align="left">
