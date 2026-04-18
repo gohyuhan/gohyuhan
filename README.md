@@ -5,60 +5,45 @@
 
 A software engineer who likes to build things — sometimes useful, sometimes just for fun, always with a little too much attention to detail. I write clean code, break things occasionally, and pretend it was intentional. 🤙
 
-<p align="left">
-  🔭 &nbsp;Currently crafting:
-  <ul>
-    <li>
-      <a href="https://github.com/gohyuhan/gitti"><strong>gitti</strong></a>
-      — a terminal UI for Git &nbsp;
-      <a href="https://github.com/gohyuhan/gitti/releases/latest">
-        <img src="https://img.shields.io/github/v/release/gohyuhan/gitti?style=flat-square&label=&color=blue" alt="gitti version" />
-      </a>
-    </li>
-    <li>
-      <a href="https://github.com/gohyuhan/rift"><strong>rift</strong></a>
-      — tear thru your filesystem &nbsp;
-      <a href="https://github.com/gohyuhan/rift/releases/latest">
-        <img src="https://img.shields.io/github/v/release/gohyuhan/rift?style=flat-square&label=&color=blue" alt="rift version" />
-      </a>
-    </li>
-  </ul>
-</p>
-<p align="left">
-  💻 &nbsp; Full stack software engineer @ <a href="https://swipey.co">swipey</a>
-</p>
-<p align="left">
-  🌱 &nbsp;Always learning something new &nbsp;·&nbsp; ☕ &nbsp;Powered by caffeine
-</p>
+<p>🔭 <b>Currently crafting:</b></p>
+<ul>
+  <li>
+    <a href="https://github.com/gohyuhan/gitti"><strong>gitti</strong></a> — a terminal UI for Git 
+    <a href="https://github.com/gohyuhan/gitti/releases/latest"><img src="https://img.shields.io/github/v/release/gohyuhan/gitti?style=flat-square&label=&color=blue" alt="gitti version" /></a>
+  </li>
+  <li>
+    <a href="https://github.com/gohyuhan/rift"><strong>rift</strong></a> — tear thru your filesystem 
+    <a href="https://github.com/gohyuhan/rift/releases/latest"><img src="https://img.shields.io/github/v/release/gohyuhan/rift?style=flat-square&label=&color=blue" alt="rift version" /></a>
+  </li>
+</ul>
+
+<p>💻 Full stack software engineer @ <a href="https://swipey.co">swipey</a></p>
+<p>🌱 Always learning something new · ☕ Powered by caffeine</p>
 
 ---
 
 <h3 align="left">🤝 Connect with me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yu-han-goh-209480200" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+  <a href="https://linkedin.com/in/yu-han-goh-209480200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
 
 <h3 align="left">🛠️ Languages & Tools</h3>
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" />
-</div>
+</p>
 
 ---
 
 <h3 align="left">📊 Stats</h3>
-
 <p align="left"><img src="./profile/trophy.svg" alt="gohyuhan trophies" /></p>
-
 <p align="left">
   <img src="./profile/stats.svg" alt="GitHub Stats" />
   &nbsp;
