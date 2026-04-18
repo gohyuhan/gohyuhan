@@ -31,13 +31,9 @@ A software engineer who likes to build things — sometimes useful, sometimes ju
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=rust" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,rust,ts,js,aws,gcp,docker,neovim" />
+  </a>
 </p>
 
 ---
