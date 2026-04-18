@@ -53,6 +53,8 @@ A software engineer who likes to build things — sometimes useful, sometimes ju
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" />
 </div>
 
+<h3 align="left">🛠️ Languages & Tools</h3>
+<p align="left"><a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" /></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" /></a> <a href="#"><img src="https://skillicons.dev/icons?i=rust" width="40" height="40" /></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" /></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" /></a> <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /></a> <a href="#"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" /></a></p>
 ---
 
 <h3 align="left">📊 Stats</h3>
