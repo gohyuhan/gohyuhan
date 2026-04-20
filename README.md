@@ -47,3 +47,9 @@ A software engineer who likes to build things — sometimes useful, sometimes ju
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gohyuhan&theme=neon-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gohyuhan/gohyuhan/main/profile/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gohyuhan/gohyuhan/main/profile/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gohyuhan/gohyuhan/main/profile/pacman-contribution-graph.svg">
+</picture>
