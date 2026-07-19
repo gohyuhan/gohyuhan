@@ -40,11 +40,8 @@ A software engineer who likes to build things — sometimes useful, sometimes ju
 
 <h3 align="left">📊 Stats</h3>
 <p align="left"><img src="./profile/trophy.svg" alt="gohyuhan trophies" /></p>
-<p align="left">
-  <img src="./profile/stats.svg" alt="GitHub Stats" />
-  &nbsp;
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
-</p>
+
+![svg](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gohyuhan&theme=neon-dark&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
