@@ -53,8 +53,8 @@ jobs:
       - name: move svg to profile folder
         run: |
           mkdir -p profile
-          cp dist/pacman-contribution-graph.svg profile/
-          cp dist/pacman-contribution-graph-dark.svg profile/
+          mv dist/pacman-contribution-graph.svg profile/
+          mv dist/pacman-contribution-graph-dark.svg profile/
 
       - name: Commit cards
         run: |
