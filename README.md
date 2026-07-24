@@ -8,12 +8,12 @@ A software engineer who likes to build things — sometimes useful, sometimes ju
 <p>🔭 <b>Currently crafting:</b></p>
 <ul>
   <li>
-    <a href="https://github.com/gohyuhan/gitti"><strong>gitti</strong></a> — a terminal UI for Git 
-    <a href="https://github.com/gohyuhan/gitti/releases/latest"><img src="https://img.shields.io/github/v/release/gohyuhan/gitti?style=flat-square&label=&color=blue" alt="gitti version" /></a>
+    <a href="https://github.com/gohyuhan/koshi"><strong>koshi</strong></a> — One window, many terminal
+    <a href="https://github.com/gohyuhan/koshi/releases/latest"><img src="https://img.shields.io/github/v/release/gohyuhan/koshi?style=flat-square&label=&color=blue" alt="koshi version" /></a>
   </li>
   <li>
-    <a href="https://github.com/gohyuhan/rift"><strong>rift</strong></a> — tear thru your filesystem 
-    <a href="https://github.com/gohyuhan/rift/releases/latest"><img src="https://img.shields.io/github/v/release/gohyuhan/rift?style=flat-square&label=&color=blue" alt="rift version" /></a>
+    <a href="https://github.com/gohyuhan/gitti"><strong>gitti</strong></a> — a terminal UI for Git 
+    <a href="https://github.com/gohyuhan/gitti/releases/latest"><img src="https://img.shields.io/github/v/release/gohyuhan/gitti?style=flat-square&label=&color=blue" alt="gitti version" /></a>
   </li>
 </ul>
 
