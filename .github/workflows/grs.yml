@@ -42,7 +42,7 @@ jobs:
       - name: generate-github-profile-3d-contrib
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_README_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           
       - name: generate pacman-contribution-graph.svg
