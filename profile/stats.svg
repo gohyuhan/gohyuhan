@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">yuhan~&#22805;&#39151; &#175;\_(&#12484;)_/&#175;'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 64, Total Commits  (last year) : 1647, Total PRs: 848, Total Issues: 11, Contributed to (last year): 4</desc>
+        <desc id="descId">Total Stars Earned: 64, Total Commits  (last year) : 1662, Total PRs: 866, Total Issues: 11, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 67.57815734120629;
+        stroke-dashoffset: 67.56031150575876;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >1.6k</text>
+      >1.7k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >848</text>
+      >866</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
